@@ -2,7 +2,7 @@ Untuk menjalankan file proyek Laundry-In di github ini :
 - Download dulu file zip nya di github lalu di unzip
 - Pastikan telah menginstal PHP dan Composer di komputer kalian
 - Lalu buka terminal
-- Lakukan command 'cd' (change directory) untuk masuk ke direktori yang diinginkan
+- Lakukan command 'cd' (change directory) untuk masuk ke direktori tempat file tersebut disimpan
 - Instal dependensi proyek dengan menjalankan command 'composer install'
 - Lalu kita harus menyalin file .env.example ke .env dengan melakukan command 'cp .env.example .env'
 - Generate key aplikasi Laravel dengan command 'php artisan key:generate'
